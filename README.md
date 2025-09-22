@@ -2964,10 +2964,10 @@
         "longitude": -51.1558
     },
     {
-        "nome": "Balneário Rincão",
-        "regiao": "Litoral",
-        "latitude": -28.835278,
-        "longitude": -49.231667
+        "nome": "Pinhal Grande",
+        "regiao": "Centro-Oeste",
+        "latitude": -29.3512,
+        "longitude": -53.3144
     },
     {
         "nome": "Westfália",
